@@ -22,6 +22,8 @@ https://getbootstrap.com/docs/4.3/examples/album/
 ## 구현 화면
 
 (이곳에 구현한 이미지를 이곳에 첨부해주세요. 아래는 예시 이미지입니다.)
+![photo1](https://github.com/bomimandoo/FE-react-styled-component-clonecoding/assets/163390823/31448890-0d47-4948-9f77-6d6eb96b35a3)
+![photo2](https://github.com/bomimandoo/FE-react-styled-component-clonecoding/assets/163390823/3b3c6dde-3fa7-4eea-8449-8eb53633d7df)
 
   
 
@@ -35,4 +37,4 @@ https://getbootstrap.com/docs/4.3/examples/album/
 
 주된 컴포넌트인 헤더, 푸터, 포토카드(사진과 글이 있는 것), 버튼에 대해 어떤 계층으로 설계했는지 이곳에 작성해주세요. 그리고 자식 컴포넌트 들에 대해서 어떤 의도를 갖고 설계했는지(ex 정렬하기 위해서, border를 주기 위해서 등) 부담없이 간단하게 적으면 됩니다. (아래는 예시입니다.)
 
-![](https://velog.velcdn.com/images/wuzoo/post/ab092dd4-595e-41ab-a850-85cab0c83e80/image.png)
+
